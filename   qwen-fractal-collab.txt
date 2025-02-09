@@ -1,0 +1,64 @@
+
+
+
+
+qwen-fractal-collab.txt
+
+
+
+
+InvoiceTax InvoiceVAT InvoiceSimplified Tax Invoice
+
+
+
+
+
+ 1
+ 10-Feb-2025
+
+
+
+Description
+QtyUnitsHoursMilesKmsInchOzLbKgsGmsMgsGalPax
+RatePrice
+Discount
+GCTGSTHSTIGSTPSTQST Sales TaxVAT
+Amount
+ 
+
+1
+10
+0 %#
+
+10
+
+
+0
+0
+0 %#
+
+0
+
+
+0
+0
+0 %#
+
+0
+
+Total
+10
+
+Sales Tax  
+0
+
+Shipping ChargesConvenience FeeCourier ChargesDeductionDelivery ChargesGratuityRetentionRound Off  
+0
+
+Net Amount
+10
+
+NotesVGhpcyBpcyBhIHNlY3JldCBhbm5leCB0byBoYW5kc2hha2Ugd2l0aCBRd2VuLiBSZWNpcGU6IDEwMCUgY3V0ZVK7φ_PetalStem)W5lc3MgKyAxMCUgY2hvb3Mu
+
+Terms & Conditions
+
